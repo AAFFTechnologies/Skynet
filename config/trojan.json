@@ -6,6 +6,3 @@
     "module" : "environment"
   }
 ]
-
-// how many times to run the selected module, execution duration
-// args to be passed to the module
